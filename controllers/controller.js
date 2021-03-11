@@ -1,5 +1,5 @@
 const axios = require("axios")
-const API_KEYS = ""
+const API_KEYS = "" //use your api key from openweathermap
 
 const Weather = require("../model/Weather")
 
